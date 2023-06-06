@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="Shutdown" Visible="0" Icon="" File="support_files/scripts/closeProj.m" Name="closeProj">
+    <Extension Value="867e1ade-c7c1-42f2-b06c-996e54ac9879" Name="ShutdownPrev"/>
+</Info>
