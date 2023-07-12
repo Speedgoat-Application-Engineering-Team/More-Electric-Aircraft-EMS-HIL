@@ -2,7 +2,7 @@
 
 **About**
 
-This reference application is based on MathWorks Energy Management Systems for a Hybrid Electric Source example and demonstrates how to perform model-in-the-loop (MIL) and hardware-in-the-loop (HIL) simulation of an energy magement system (EMS) of a More Electric Aircraft (MEA). The plant model in this example comprises a fuel cell hybrid power system based on a representative emergency flight profile of a Bombardier aircraft and consists of the following:
+This reference application is based on MathWorks Energy Management Systems for a Hybrid Electric Source example and demonstrates how to perform model-in-the-loop (MIL) and hardware-in-the-loop (HIL) testing of an energy magement system (EMS) of a More Electric Aircraft (MEA). The plant model in this example comprises a fuel cell hybrid power system based on a representative emergency flight profile of a Bombardier aircraft and consists of the following:
 - A 12.5 kW (peak), 30-60 V proton exchange membrane (PEM) fuel cell power module (FCPM), with nominal power of 10 kW.
 - A 48 V, 40 Ah, Li-ion battery system.
 - A 291.6 V, 15.6 F, supercapacitor system (six 48.6v cells in series)
@@ -21,7 +21,7 @@ In addition to the MEA emergency power system, the example includes EMS controls
  - Model and simulate an emergency power system of a More Electric Aircraft (MEA) composed of fuel cells, lithium-ion batteries and supercapacitors
 - Seamlessly transition from MIL to HIL within Simulink without changing your model 
 - Interface the MEA digital twin with the EMS controller using ARINC 429
-- Leverage HIL simulation to validate EMS controls in emergency landing scenarios 
+- Leverage HIL testing to validate EMS controls in emergency landing scenarios 
 
 ----------
 
